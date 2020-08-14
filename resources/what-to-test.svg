@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg8" version="1.1" viewBox="0 0 190.5 95.25" height="360" width="720">
+  <defs>
+    <path id="path5347" d="M0 0h396.85v595.276H0z"/>
+    <path id="path4987" d="M263.065 171.339h76.201v154.305h-76.201z"/>
+    <path id="path4531" d="M41.646 321.322h309.708v154.393H41.646z"/>
+  </defs>
+  <defs id="defs2">
+    <clipPath id="clipPath4183">
+      <path id="path4185" d="M95.669 486.904h45.733v45.76H95.669z"/>
+    </clipPath>
+    <clipPath id="clipPath4199">
+      <path id="path4201" d="M52.61 497.831h22.253v22.253H52.61z"/>
+    </clipPath>
+    <clipPath id="clipPath4529">
+      <use xlink:href="#path4531"/>
+    </clipPath>
+    <clipPath id="clipPath4717">
+      <path id="path4719" d="M46.417 390.434c0-35.151 28.496-63.649 63.648-63.649s63.649 28.498 63.649 63.649c0 35.153-28.497 63.647-63.649 63.647s-63.648-28.494-63.648-63.647"/>
+    </clipPath>
+    <clipPath id="clipPath4873">
+      <use id="path4875" xlink:href="#path4531"/>
+    </clipPath>
+    <clipPath id="clipPath4985">
+      <use xlink:href="#path4987"/>
+    </clipPath>
+    <clipPath id="clipPath5069">
+      <use id="path5071" xlink:href="#path4987"/>
+    </clipPath>
+    <clipPath id="clipPath5345">
+      <use xlink:href="#path5347"/>
+    </clipPath>
+    <clipPath id="clipPath5365">
+      <use id="path5367" xlink:href="#path5347"/>
+    </clipPath>
+    <clipPath id="clipPath865">
+      <path id="rect867" transform="scale(-1 1)" opacity="1" fill="#1c3fff" fill-opacity="1" stroke="none" stroke-width="22" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="176,22" stroke-dashoffset="220" stroke-opacity=".924" paint-order="stroke fill markers" d="M212.5-191.388h258.28v1284.375H212.5z"/>
+    </clipPath>
+    <clipPath id="clipPath851">
+      <path id="rect853" opacity="1" fill="#f9f9fb" fill-opacity="1" stroke="none" stroke-width="33" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="220" stroke-opacity="1" paint-order="stroke fill markers" d="M1128.405-55.182h562.022V1063.41h-562.022z"/>
+    </clipPath>
+    <clipPath id="clipPath880">
+      <path d="M1085.156 92.987l39.453 46.484-81.25 16.016-8.203 5.078-38.672 3.906-37.5 15.625-24.609 25.391-5.078 21.094 5.86 23.437 22.265 22.266L850 291.424l-83.594 36.329-16.015 30.078-12.891 6.25-38.672 83.594-16.406 56.64-7.813 58.985-4.296 95.312 6.64 55.86 3.906 6.64 4.688 22.266 78.125 65.234 111.719 62.11 98.828 37.5 82.422 8.593 52.617-2.854-41.24 192.163 250.885-38.217-22.701-111.352-36.58-52.933 59.216-27.574 111.62 11.233-24.152 181.255 551.743 2.202-27.962-690.11-123.32-141.226L1689.322 93.35z" id="path882" opacity="1" fill="#f9f9fb" fill-opacity="1" stroke="none" stroke-width="33" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="220" stroke-opacity="1" paint-order="stroke fill markers"/>
+    </clipPath>
+    <linearGradient id="linearGradient917">
+      <stop offset="0" id="stop913" stop-color="#6ecf3f" stop-opacity="1"/>
+      <stop offset="1" id="stop915" stop-color="#67ca2d" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient xlink:href="#linearGradient917" id="linearGradient919" x1="945.899" y1="845.721" x2="1056.445" y2="767.596" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-5.375 2990.568 3234.032) scale(.31507)"/>
+    <linearGradient y2="767.596" x2="1056.445" y1="845.721" x1="945.899" gradientTransform="rotate(-5.375 3726.37 3268.592) scale(.31507)" gradientUnits="userSpaceOnUse" id="linearGradient5101" xlink:href="#linearGradient917"/>
+    <linearGradient y2="767.596" x2="1056.445" y1="845.721" x1="945.899" gradientTransform="rotate(-5.375 4442.35 3302.22) scale(.31507)" gradientUnits="userSpaceOnUse" id="linearGradient5117" xlink:href="#linearGradient917"/>
+    <path d="M6 0h114a6 6 0 016 6v114a6 6 0 01-6 6H6a6 6 0 01-6-6V6a6 6 0 016-6z" id="path-1"/>
+  </defs>
+  <g id="layer1" stroke="#000">
+    <text xml:space="preserve" style="line-height:1.25" x="383.44" y="70.291" id="text1147" font-style="normal" font-weight="400" font-size="10.583" font-family="sans-serif" fill="#000" fill-opacity="1" stroke-width=".265"/>
+    <g transform="matrix(.26458 0 0 .26458 169.204 -45.728)" id="g5025" shape-rendering="crispEdges">
+      <g transform="translate(-230.261 -231.838)" id="g5155" stroke="none" fill-opacity="1">
+        <g id="g5144">
+          <path id="path911" d="M22.633 513.612c4.274 3.747 8.477 7.547 11.992 11.852 9.034-11.36 19.305-21.736 30.998-29.245l1.909 13.727c-12.46 4.7-23.544 12.897-32.325 26.96-4.92-6.132-9.176-12.468-18.556-17.23z" fill="url(#linearGradient919)" stroke-width="1.89" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="220" stroke-opacity="1" paint-order="stroke fill markers"/>
+          <rect id="rect5066" width="212.188" height="26.483" x="98.562" y="503.321" ry="7.043" fill="#fff" stroke-width="6.052"/>
+        </g>
+        <g id="g5140" transform="translate(0 -.93)" shape-rendering="crispEdges">
+          <path d="M22.633 582.648c4.274 3.747 8.477 7.547 11.992 11.852 9.034-11.36 19.305-21.737 30.998-29.245l1.909 13.727c-12.46 4.7-23.544 12.896-32.325 26.96-4.92-6.132-9.176-12.468-18.556-17.23z" id="path911-7" fill="url(#linearGradient5101)" stroke-width="1.89" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="220" stroke-opacity="1" paint-order="stroke fill markers"/>
+          <rect ry="7.043" y="572.357" x="98.562" height="26.483" width="212.188" id="rect5066-6" fill="#fff" stroke-width="6.052"/>
+        </g>
+        <g id="g5136" shape-rendering="crispEdges">
+          <path d="M22.633 649.824c4.274 3.747 8.477 7.546 11.992 11.852 9.034-11.361 19.305-21.737 30.998-29.245l1.909 13.727c-12.46 4.699-23.544 12.896-32.325 26.96-4.92-6.133-9.176-12.468-18.556-17.231z" id="path911-9" fill="url(#linearGradient5117)" stroke-width="1.89" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="220" stroke-opacity="1" paint-order="stroke fill markers"/>
+          <rect ry="7.043" y="639.532" x="98.562" height="26.483" width="212.188" id="rect5066-0" fill="#fff" stroke-width="6.052"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <style type="text/css" id="style853">
+  </style>
+</svg>

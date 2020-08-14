@@ -1,0 +1,107 @@
+[
+  {
+    "name": "2020-08-15-automating-thumbnails",
+    "title": "Automated Thumbnails",
+    "subtitle": "Denojs Tutorial",
+    "backgroundColour": "#3B4252",
+    "logoName": "deno.svg"
+  },
+  {
+    "name": "2020-07-25-what-to-test",
+    "title": "How to Know",
+    "subtitle": "What to Test",
+    "backgroundColour": "#4c566a",
+    "logoName": "what-to-test.svg"
+  },
+  {
+    "name": "2020-07-14-excalidraw-app-3",
+    "title": "Drawing App - Part 3",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#88C0D0",
+    "logoName": "excalidraw.svg"
+  },
+  {
+    "name": "2020-07-03-excalidraw-app-2",
+    "title": "Drawing App - Part 2",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#88C0D0",
+    "logoName": "excalidraw.svg"
+  },
+  {
+    "name": "2020-06-30-mock-service-worker",
+    "title": "Mock Service Worker",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#ff9843",
+    "logoName": "msw.svg"
+  },
+  {
+    "name": "2020-06-23-excalidraw-app",
+    "title": "Drawing App - Part 1",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#88C0D0",
+    "logoName": "excalidraw.svg"
+  },
+  {
+    "name": "2020-06-15-recoil-hook-form",
+    "title": "React Hook Form",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#ec5990",
+    "logoName": "rhf.svg"
+  },
+  {
+    "name": "2020-06-04-react-state-management",
+    "title": "Props vs Context vs",
+    "subtitle": "Redux vs Recoil",
+    "backgroundColour": "#81A1C1",
+    "logoName": "state-management.svg"
+  },
+  {
+    "name": "2020-05-19-recoil-tutorial",
+    "title": "Recoil",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#3577E5",
+    "logoName": "react.svg"
+  },
+  {
+    "name": "2020-04-21-uni-in-15-mins",
+    "title": "5 Year CS Degree",
+    "subtitle": "in 15 Minutes",
+    "backgroundColour": "#712177",
+    "logoName": "was-uni-useful.svg"
+  },
+  {
+    "name": "2020-04-13-5-testing-tips",
+    "title": "Testing Tips",
+    "subtitle": "5 Tips",
+    "backgroundColour": "#A3BE8C",
+    "logoName": "testing-tips.svg"
+  },
+  {
+    "name": "2020-04-04-5-tips-software-engineer",
+    "title": "How to STAND OUT",
+    "subtitle": "5 Tips",
+    "backgroundColour": "#5E81AC",
+    "logoName": "engineering-tips.svg"
+  },
+  {
+    "name": "2020-03-30-testing-docker-bash",
+    "title": "Bats-Core",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#2e2e2e",
+    "logoName": "docker.svg"
+  },
+  {
+    "name": "2020-03-27-welcome",
+    "title": "Welcome!",
+    "subtitle": "",
+    "backgroundColour": "#2E3440",
+    "logoName": "welcome.svg"
+  },
+  {
+    "name": "2020-03-27-generate-pdf",
+    "title": "Generate PDFs in Java",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#2E3440",
+    "logoName": "java.svg"
+  }
+]
