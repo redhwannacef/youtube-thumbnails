@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-09-09-zustand-tutorial",
+    "title": "Zustand",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#577ac9",
+    "logoName": "zustand.svg"
+  },
+  {
     "name": "2020-08-15-automating-thumbnails",
     "title": "Automated Thumbnails",
     "subtitle": "Denojs Tutorial",
