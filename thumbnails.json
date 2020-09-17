@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-09-17-jotai-tutorial",
+    "title": "Jotai",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#2E3440",
+    "logoName": "jotai.svg"
+  },
+  {
     "name": "2020-09-09-zustand-tutorial",
     "title": "Zustand",
     "subtitle": "Tutorial",
