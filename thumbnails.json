@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-09-29-cube-css-tutorial",
+    "title": "The BEST Way to Style",
+    "subtitle": "Your App",
+    "backgroundColour": "#bb1e52",
+    "logoName": "cube-css.svg"
+  },
+  {
     "name": "2020-09-17-jotai-tutorial",
     "title": "Jotai",
     "subtitle": "Tutorial",
