@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-10-19-quarkus-tutorial",
+    "title": "Quarkus",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#4C566A",
+    "logoName": "quarkus.svg"
+  },
+  {
     "name": "2020-10-15-react-state-management-2",
     "title": "Zustand vs Redux vs",
     "subtitle": "Jotai vs Recoil",
