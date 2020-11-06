@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-11-06-kafka-tutorial",
+    "title": "Kafka",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#D08770",
+    "logoName": "kafka.svg"
+  },
+  {
     "name": "2020-10-19-quarkus-tutorial",
     "title": "Quarkus",
     "subtitle": "Tutorial",
