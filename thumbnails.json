@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-12-04-webpack-tutorial",
+    "title": "Webpack",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#1c78c0",
+    "logoName": "webpack.svg"
+  },
+  {
     "name": "2020-11-06-kafka-tutorial",
     "title": "Kafka",
     "subtitle": "Tutorial",
