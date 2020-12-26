@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-12-26-kong-tutorial",
+    "title": "Kong Gateway",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#0d2d4c",
+    "logoName": "kong.svg"
+  },
+  {
     "name": "2020-12-04-webpack-tutorial",
     "title": "Webpack",
     "subtitle": "Tutorial",
