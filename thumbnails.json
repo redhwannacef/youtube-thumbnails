@@ -1,5 +1,12 @@
 [
   {
+    "name": "2020-12-28-excalidraw-app-undoredo-4",
+    "title": "Drawing App - Part 4",
+    "subtitle": "Undo/Redo",
+    "backgroundColour": "#88C0D0",
+    "logoName": "excalidraw.svg"
+  },
+  {
     "name": "2020-12-26-kong-tutorial",
     "title": "Kong Gateway",
     "subtitle": "Tutorial",
