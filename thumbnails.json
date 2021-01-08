@@ -1,11 +1,19 @@
 [
   {
+    "name": "2021-01-08-react-query-tutorial",
+    "title": "React Query",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#002c4b",
+    "logoName": "react-query.svg"
+  },
+  {
     "name": "2020-12-31-theme-switcher-tutorial",
     "title": "CSS Theme Switcher",
     "subtitle": "Tutorial",
     "backgroundColour": "#15202b",
     "logoName": "theme-switcher.svg"
-  },  {
+  },
+  {
     "name": "2020-12-28-excalidraw-app-undoredo-4",
     "title": "Drawing App - Part 4",
     "subtitle": "Undo/Redo",
