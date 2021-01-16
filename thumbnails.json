@@ -1,5 +1,12 @@
 [
   {
+    "name": "2021-01-16-terraform-tutorial",
+    "title": "Terraform",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#5c4ee5",
+    "logoName": "terraform.svg"
+  },
+  {
     "name": "2021-01-08-react-query-tutorial",
     "title": "React Query",
     "subtitle": "Tutorial",

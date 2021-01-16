@@ -1,0 +1,32 @@
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 190.5 95.250003"
+   height="360"
+   width="720">
+  <g id="layer1">
+    <g
+       style="fill:#ffffff"
+       id="g892">
+      <path
+         class="rect-dark"
+         fill="#4040b2"
+         d="M 164.465,31.829378 V 61.880756 L 190.5,46.863002 V 16.779878 Z"
+         id="path837"
+         style="stroke-width:1.5875;fill:#ffffff" />
+      <path
+         class="rect-light"
+         fill="#5c4ee5"
+         d="m 135.5725,16.779878 26.035,15.0495 v 30.051378 l -26.035,-15.033624 z"
+         id="path839"
+         style="stroke-width:1.5875;fill:#ffffff" />
+      <path
+         class="rect-light"
+         fill="#5c4ee5"
+         d="M 106.68,2e-6 V 30.067256 L 132.715,45.10088 V 15.033632 Z m 28.8925,80.216376 26.035,15.033624 V 65.182754 L 135.5725,50.14913 Z"
+         id="path841"
+         style="stroke-width:1.5875;fill:#ffffff" />
+    </g>
+  </g>
+</svg>
