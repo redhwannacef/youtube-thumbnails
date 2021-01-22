@@ -1,5 +1,12 @@
 [
   {
+    "name": "2021-01-22-firebase-tutorial",
+    "title": "Firebase + React",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#FFA000",
+    "logoName": "firebase.svg"
+  },
+  {
     "name": "2021-01-16-terraform-tutorial",
     "title": "Terraform",
     "subtitle": "Tutorial",
