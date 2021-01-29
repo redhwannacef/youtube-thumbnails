@@ -1,5 +1,12 @@
 [
   {
+    "name": "2021-01-29-firebase-emulator-tutorial",
+    "title": "Firebase Emulator",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#039be5",
+    "logoName": "firebase-emulator.svg"
+  },
+  {
     "name": "2021-01-22-firebase-tutorial",
     "title": "Firebase + React",
     "subtitle": "Tutorial",
