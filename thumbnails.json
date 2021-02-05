@@ -1,5 +1,12 @@
 [
   {
+    "name": "2021-02-05-react-localisation-tutorial",
+    "title": "React i18next",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#009688",
+    "logoName": "i18n.svg"
+  },
+  {
     "name": "2021-01-29-firebase-emulator-tutorial",
     "title": "Firebase Emulator",
     "subtitle": "Tutorial",
