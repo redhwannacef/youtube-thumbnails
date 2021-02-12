@@ -1,5 +1,12 @@
 [
   {
+    "name": "2021-02-16-firebase-shortener-tutorial",
+    "title": "Firebase URL Shortener",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#A3BE8C",
+    "logoName": "url.svg"
+  },
+  {
     "name": "2021-02-05-react-localisation-tutorial",
     "title": "React i18next",
     "subtitle": "Tutorial",
