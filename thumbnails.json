@@ -1,5 +1,11 @@
 [
   {
+    "name": "2021-02-19-remotion",
+    "title": "Remotion",
+    "subtitle": "Tutorial",
+    "backgroundColour": "#2E3440",
+    "logoName": "remotion.svg"
+  },  {
     "name": "2021-02-16-firebase-shortener-tutorial",
     "title": "Firebase URL Shortener",
     "subtitle": "Tutorial",
