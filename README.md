@@ -1,3 +1,7 @@
+# Archived
+
+I have archived this projcet as I am doing my thumbnails in Adobe Illustrator now!
+
 # thumbnails
 
 A small tool built with [Denojs](https://deno.land/) to generate my YouTube thumbnails. This also holds all my YouTube thumbnails in code.
